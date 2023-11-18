@@ -1,0 +1,4 @@
+Ex.1
+
+Constantes armazenam valores que não podem ser alterados, são itens de dados nomeados com valores predefinidos, enquanto que variáveis são itens de dados nomeados cujos valores podem ser alterados durante a execução do programa. 
+
