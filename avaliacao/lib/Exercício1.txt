@@ -1,0 +1,7 @@
+Q1. Qual a diferença entre Widget stateless e statefull ?
+
+Resposta:
+
+Stless é um widget estático, que não muda, pois é o widget que mantém as mesmas características desde o início da execução do app, já o 
+Stateful define widgets que mudam suas características com a mudança de estado,seu estado é mutável.
+
